@@ -1,3 +1,4 @@
 [
-  { "login": "trexsatya", "name": "Satya", "repo": "trexsatya.github.io", "branch": "gh-pages" }
+  { "login": "trexsatya", "name": "Satya", "repo": "trexsatya.github.io", "branch": "gh-pages" },
+  { "login": "apexcoder11-source", "name": "apexcoder11-source", "repo": "cupitor-data", "branch": "main" }
 ]
